@@ -1,4 +1,3 @@
-# LBB_Programming-Data-Science_Algoritma
 # Diabetes Risk Prediction Using BRFSS 2015 Data
 # 1. Introduction
 
